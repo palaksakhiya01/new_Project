@@ -1,0 +1,6 @@
+{
+  "name": "Cafe Website",
+  "description": "An elegant, interactive cafe website featuring a full menu, reservation system, about us, contact us, and user profile login system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
